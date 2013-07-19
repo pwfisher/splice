@@ -1,0 +1,13 @@
+{
+    "name": "splice",
+    "description": "Splice: a Node.js SOA PAC FE framework.",
+    "version": "0.1.0",
+    "dependencies": {
+    	"handlebars": "",
+        "node-staticp": "1.1.1"
+    },
+    "engines" : {
+		"node": "0.8.22",
+		"npm": "1.2.x"
+    }
+}
